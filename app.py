@@ -46,5 +46,32 @@ def random_netflix_movie():
         return jsonify({"error": str(e)}), 500
 
 
+# New feat, qhich pokemon am i
+@app.route('/api/pokemon/random', methods=['GET'])
+def pokemon_aleatorio():
+    try:
+        url = "https://pokeapi.co/api/v2/pokemon?limit=1000&offset=0"
+        data = requests.get(url).json()
+        resultados = data.get("results", [])
+
+        if not resultados:
+            return jsonify({"error": "No se encontraron Pokémon"}), 404
+
+        elegido = random.choice(resultados)
+        detalles = requests.get(elegido["url"]).json()
+
+        respuesta = {
+            "nombre": detalles.get("name"),
+            "altura": detalles.get("height"),
+            "peso": detalles.get("weight"),
+            "imagen": detalles.get("sprites", {}).get("front_default"),
+            "link_pokeapi": elegido["url"]
+        }
+
+        return jsonify(respuesta), 200
+
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
+
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=8080, debug=True)

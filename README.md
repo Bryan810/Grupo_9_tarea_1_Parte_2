@@ -59,27 +59,27 @@ Devuelve un Pokémon aleatorio con datos básicos desde PokéAPI.
 
 ## 🖼️ Captura de ejemplo
 
-![1 Rama Principal Prod](https://github.com/Bryan810/Grupo_9_tarea_1_Parte_2/blob/feat/what_pokemon_am_i_today/Capturas/1 Rama Principal Prod.png)
+![1 Rama Principal Prod](https://raw.githubusercontent.com/Bryan810/Grupo_9_tarea_1_Parte_2/feat/what_pokemon_am_i_today/Capturas/1%20Rama%20Principal%20Prod.png)
 
-![2 Imagen creada con la rama prod version 1](https://github.com/Bryan810/Grupo_9_tarea_1_Parte_2/blob/feat/what_pokemon_am_i_today/Capturas/2 Imagen creada con la rama prod version 1.png)
+![2 Imagen creada con la rama prod version 1](https://raw.githubusercontent.com/Bryan810/Grupo_9_tarea_1_Parte_2/feat/what_pokemon_am_i_today/Capturas/2%20Imagen%20creada%20con%20la%20rama%20prod%20version%201.png)
 
-![3 Solicitud al endpoint que retorna la sugerencia de una pelicula para ver](https://github.com/Bryan810/Grupo_9_tarea_1_Parte_2/blob/feat/what_pokemon_am_i_today/Capturas/3 Solicitud al endpoint que retorna la sugerencia de una pelicula para ver.png)
+![3 Solicitud al endpoint que retorna la sugerencia de una pelicula para ver](https://raw.githubusercontent.com/Bryan810/Grupo_9_tarea_1_Parte_2/feat/what_pokemon_am_i_today/Capturas/3%20Solicitud%20al%20endpoint%20que%20retorna%20la%20sugerencia%20de%20una%20pelicula%20para%20ver.png)
 
-![4 Docker levantado con la imagen api version 1](https://github.com/Bryan810/Grupo_9_tarea_1_Parte_2/blob/feat/what_pokemon_am_i_today/Capturas/4 Docker levantado con la imagen api version 1.png)
+![4 Docker levantado con la imagen api version 1](https://raw.githubusercontent.com/Bryan810/Grupo_9_tarea_1_Parte_2/feat/what_pokemon_am_i_today/Capturas/4%20Docker%20levantado%20con%20la%20imagen%20api%20version%201.png)
 
-![5 Logs del contenedor docker version 1](https://github.com/Bryan810/Grupo_9_tarea_1_Parte_2/blob/feat/what_pokemon_am_i_today/Capturas/5 Logs del contenedor docker version 1.png)
+![5 Logs del contenedor docker version 1](https://raw.githubusercontent.com/Bryan810/Grupo_9_tarea_1_Parte_2/feat/what_pokemon_am_i_today/Capturas/5%20Logs%20del%20contenedor%20docker%20version%201.png)
 
-![6 Creación de la nueva rama con la nueva feature](https://github.com/Bryan810/Grupo_9_tarea_1_Parte_2/blob/feat/what_pokemon_am_i_today/Capturas/6 Creación de la nueva rama con la nueva feature.png)
+![6 Creación de la nueva rama con la nueva feature](https://raw.githubusercontent.com/Bryan810/Grupo_9_tarea_1_Parte_2/feat/what_pokemon_am_i_today/Capturas/6%20Creación%20de%20la%20nueva%20rama%20con%20la%20nueva%20feature.png)
 
-![7 Imagen con la nueva version 2 con la nueva feature](https://github.com/Bryan810/Grupo_9_tarea_1_Parte_2/blob/feat/what_pokemon_am_i_today/Capturas/7 Imagen con la nueva version 2 con la nueva feature.png)
+![7 Imagen con la nueva version 2 con la nueva feature](https://raw.githubusercontent.com/Bryan810/Grupo_9_tarea_1_Parte_2/feat/what_pokemon_am_i_today/Capturas/7%20Imagen%20con%20la%20nueva%20version%202%20con%20la%20nueva%20feature.png)
 
-![8 Ejecución del docker con la version 2](https://github.com/Bryan810/Grupo_9_tarea_1_Parte_2/blob/feat/what_pokemon_am_i_today/Capturas/8 Ejecución del docker con la version 2.png)
+![8 Ejecución del docker con la version 2](https://raw.githubusercontent.com/Bryan810/Grupo_9_tarea_1_Parte_2/feat/what_pokemon_am_i_today/Capturas/8%20Ejecución%20del%20docker%20con%20la%20version%202.png)
 
-![9 Docker corriendo con la nueva version 2](https://github.com/Bryan810/Grupo_9_tarea_1_Parte_2/blob/feat/what_pokemon_am_i_today/Capturas/9 Docker corriendo con la nueva version 2 .png)
+![9 Docker corriendo con la nueva version 2](https://raw.githubusercontent.com/Bryan810/Grupo_9_tarea_1_Parte_2/feat/what_pokemon_am_i_today/Capturas/9%20Docker%20corriendo%20con%20la%20nueva%20version%202%20.png)
 
-![10 Logs del docker con la versión 2](https://github.com/Bryan810/Grupo_9_tarea_1_Parte_2/blob/feat/what_pokemon_am_i_today/Capturas/10 Logs del docker con la versión 2.png)
+![10 Logs del docker con la versión 2](https://raw.githubusercontent.com/Bryan810/Grupo_9_tarea_1_Parte_2/feat/what_pokemon_am_i_today/Capturas/10%20Logs%20del%20docker%20con%20la%20versión%202.png)
 
-![11 respuesta del api version 2 indicando que pokemon eres el día de hoy](https://github.com/Bryan810/Grupo_9_tarea_1_Parte_2/blob/feat/what_pokemon_am_i_today/Capturas/11 respuesta del api version 2 indicando que pokemon eres el día de hoy.png)
+![11 respuesta del api version 2 indicando que pokemon eres el día de hoy](https://raw.githubusercontent.com/Bryan810/Grupo_9_tarea_1_Parte_2/feat/what_pokemon_am_i_today/Capturas/11%20respuesta%20del%20api%20version%202%20indicando%20que%20pokemon%20eres%20el%20día%20de%20hoy.png)
 
 
 ---
